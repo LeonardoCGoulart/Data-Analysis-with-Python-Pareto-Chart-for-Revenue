@@ -1,0 +1,6 @@
+mysql-connector-python
+sqlalchemy pymysql
+pymysql
+plotly
+python-dotenv
+pandas
